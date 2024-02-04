@@ -6,5 +6,8 @@
   <a href="https://tic-tac-toe-arnnab.netlify.app">👉Live Demo👍</a>
 </h1>
 
-![Screenshot 1](output/output1.png)
-![Screenshot 2](output/output2.png)
+## Screenshots
+![Screenshot 1](Screenshot_1.png)
+![Screenshot 2](Screenshot_2.png)
+![Screenshot 3](Screenshot_3.png)
+![Screenshot 4](Screenshot_4.png)
